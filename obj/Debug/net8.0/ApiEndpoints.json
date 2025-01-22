@@ -1,0 +1,55 @@
+[
+  {
+    "ContainingType": "ProjetoChatGPT04_CSharp.Controllers.AtendimentoController",
+    "Method": "Post",
+    "RelativePath": "api/Atendimento",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ProjetoChatGPT04_CSharp.Dtos.AtendimentoRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoChatGPT04_CSharp.Controllers.AtendimentoController",
+    "Method": "Get",
+    "RelativePath": "api/Atendimento/{dataMin}/{dataMax}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dataMin",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      },
+      {
+        "Name": "dataMax",
+        "Type": "System.DateTime",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProjetoChatGPT04_CSharp.Controllers.ClienteController",
+    "Method": "Post",
+    "RelativePath": "api/Cliente",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ProjetoChatGPT04_CSharp.Dtos.ClienteRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

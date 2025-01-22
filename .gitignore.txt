@@ -1,0 +1,39 @@
+# Arquivos de build
+bin/
+obj/
+
+# Configurações de usuário
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs e depuração
+*.log
+*.tlog
+*.pdb
+
+# Configurações locais e secrets
+appsettings.Development.json
+secrets.json
+
+# Cache e arquivos temporários
+*.vs/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Arquivos de dependência
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Arquivos gerados por IDEs
+.idea/
+*.suo
+
+# MongoDB dumps
+*.bson
+*.json
+
+# Outros
+*.bak

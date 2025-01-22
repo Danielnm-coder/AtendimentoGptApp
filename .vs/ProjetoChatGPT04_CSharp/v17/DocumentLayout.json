@@ -1,0 +1,127 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Csharp_\\Automa\u00E7\u00E3o-com-IA\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85B181C3-C43B-438B-9809-74F1059D82B8}|ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp.csproj|c:\\csharp_\\automa\u00E7\u00E3o-com-ia\\projetochatgpt04_csharp\\projetochatgpt04_csharp\\projetochatgpt04_csharp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85B181C3-C43B-438B-9809-74F1059D82B8}|ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp.csproj|solutionrelative:projetochatgpt04_csharp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B181C3-C43B-438B-9809-74F1059D82B8}|ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp.csproj|c:\\csharp_\\automa\u00E7\u00E3o-com-ia\\projetochatgpt04_csharp\\projetochatgpt04_csharp\\projetochatgpt04_csharp\\components\\rabbitmqconsumercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B181C3-C43B-438B-9809-74F1059D82B8}|ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp.csproj|solutionrelative:projetochatgpt04_csharp\\components\\rabbitmqconsumercomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B181C3-C43B-438B-9809-74F1059D82B8}|ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp.csproj|c:\\csharp_\\automa\u00E7\u00E3o-com-ia\\projetochatgpt04_csharp\\projetochatgpt04_csharp\\projetochatgpt04_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B181C3-C43B-438B-9809-74F1059D82B8}|ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp.csproj|solutionrelative:projetochatgpt04_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B181C3-C43B-438B-9809-74F1059D82B8}|ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp.csproj|c:\\csharp_\\automa\u00E7\u00E3o-com-ia\\projetochatgpt04_csharp\\projetochatgpt04_csharp\\projetochatgpt04_csharp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{85B181C3-C43B-438B-9809-74F1059D82B8}|ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp.csproj|solutionrelative:projetochatgpt04_csharp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B181C3-C43B-438B-9809-74F1059D82B8}|ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp.csproj|c:\\csharp_\\automa\u00E7\u00E3o-com-ia\\projetochatgpt04_csharp\\projetochatgpt04_csharp\\projetochatgpt04_csharp\\controllers\\atendimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B181C3-C43B-438B-9809-74F1059D82B8}|ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp.csproj|solutionrelative:projetochatgpt04_csharp\\controllers\\atendimentocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85B181C3-C43B-438B-9809-74F1059D82B8}|ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp.csproj|c:\\csharp_\\automa\u00E7\u00E3o-com-ia\\projetochatgpt04_csharp\\projetochatgpt04_csharp\\projetochatgpt04_csharp\\services\\relatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85B181C3-C43B-438B-9809-74F1059D82B8}|ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp.csproj|solutionrelative:projetochatgpt04_csharp\\services\\relatorioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RabbitMQConsumerComponent.cs",
+              "DocumentMoniker": "C:\\Csharp_\\Automa\u00E7\u00E3o-com-IA\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\Components\\RabbitMQConsumerComponent.cs",
+              "RelativeDocumentMoniker": "ProjetoChatGPT04_CSharp\\Components\\RabbitMQConsumerComponent.cs",
+              "ToolTip": "C:\\Csharp_\\Automa\u00E7\u00E3o-com-IA\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\Components\\RabbitMQConsumerComponent.cs",
+              "RelativeToolTip": "ProjetoChatGPT04_CSharp\\Components\\RabbitMQConsumerComponent.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA1wGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T15:35:49.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Csharp_\\Automa\u00E7\u00E3o-com-IA\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\docker-compose.yml",
+              "RelativeDocumentMoniker": "ProjetoChatGPT04_CSharp\\docker-compose.yml",
+              "ToolTip": "C:\\Csharp_\\Automa\u00E7\u00E3o-com-IA\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\docker-compose.yml",
+              "RelativeToolTip": "ProjetoChatGPT04_CSharp\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-01-09T15:15:05.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Csharp_\\Automa\u00E7\u00E3o-com-IA\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\appsettings.json",
+              "RelativeDocumentMoniker": "ProjetoChatGPT04_CSharp\\appsettings.json",
+              "ToolTip": "C:\\Csharp_\\Automa\u00E7\u00E3o-com-IA\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\appsettings.json",
+              "RelativeToolTip": "ProjetoChatGPT04_CSharp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-09T14:59:16.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AtendimentoController.cs",
+              "DocumentMoniker": "C:\\Csharp_\\Automa\u00E7\u00E3o-com-IA\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\Controllers\\AtendimentoController.cs",
+              "RelativeDocumentMoniker": "ProjetoChatGPT04_CSharp\\Controllers\\AtendimentoController.cs",
+              "ToolTip": "C:\\Csharp_\\Automa\u00E7\u00E3o-com-IA\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\Controllers\\AtendimentoController.cs",
+              "RelativeToolTip": "ProjetoChatGPT04_CSharp\\Controllers\\AtendimentoController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:52:38.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Csharp_\\Automa\u00E7\u00E3o-com-IA\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "ProjetoChatGPT04_CSharp\\Program.cs",
+              "ToolTip": "C:\\Csharp_\\Automa\u00E7\u00E3o-com-IA\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\Program.cs",
+              "RelativeToolTip": "ProjetoChatGPT04_CSharp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:48:08.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RelatorioService.cs",
+              "DocumentMoniker": "C:\\Csharp_\\Automa\u00E7\u00E3o-com-IA\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\Services\\RelatorioService.cs",
+              "RelativeDocumentMoniker": "ProjetoChatGPT04_CSharp\\Services\\RelatorioService.cs",
+              "ToolTip": "C:\\Csharp_\\Automa\u00E7\u00E3o-com-IA\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\ProjetoChatGPT04_CSharp\\Services\\RelatorioService.cs",
+              "RelativeToolTip": "ProjetoChatGPT04_CSharp\\Services\\RelatorioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T14:21:55.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

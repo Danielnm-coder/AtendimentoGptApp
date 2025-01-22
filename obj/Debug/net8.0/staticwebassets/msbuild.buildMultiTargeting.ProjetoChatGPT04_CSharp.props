@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ProjetoChatGPT04_CSharp.props" />
+</Project>

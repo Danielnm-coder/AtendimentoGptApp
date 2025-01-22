@@ -1,0 +1,87 @@
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\appsettings.Development.json
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\appsettings.json
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\ProjetoChatGPT04_CSharp.staticwebassets.endpoints.json
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\ProjetoChatGPT04_CSharp.exe
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\ProjetoChatGPT04_CSharp.deps.json
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\ProjetoChatGPT04_CSharp.runtimeconfig.json
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\ProjetoChatGPT04_CSharp.dll
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\ProjetoChatGPT04_CSharp.pdb
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\DnsClient.dll
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\SharpCompress.dll
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\Snappier.dll
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\ZstdSharp.dll
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.csproj.AssemblyReference.cache
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.AssemblyInfoInputs.cache
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.AssemblyInfo.cs
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.csproj.CoreCompileInputs.cache
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.MvcApplicationPartsAssemblyInfo.cs
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.MvcApplicationPartsAssemblyInfo.cache
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\scopedcss\bundle\ProjetoChatGPT04_CSharp.styles.css
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets.development.json
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoChatGPT04_CSharp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoChatGPT04_CSharp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoChatGPT04_CSharp.props
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoChatGPT04_CSharp.props
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoChatGPT04_CSharp.props
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoC.6DBCF2F4.Up2Date
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.dll
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\refint\ProjetoChatGPT04_CSharp.dll
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.pdb
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.genruntimeconfig.cache
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ref\ProjetoChatGPT04_CSharp.dll
+C:\curso de férias\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\appsettings.Development.json
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\appsettings.json
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\ProjetoChatGPT04_CSharp.staticwebassets.endpoints.json
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\ProjetoChatGPT04_CSharp.exe
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\ProjetoChatGPT04_CSharp.deps.json
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\ProjetoChatGPT04_CSharp.runtimeconfig.json
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\ProjetoChatGPT04_CSharp.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\ProjetoChatGPT04_CSharp.pdb
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\DnsClient.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\SharpCompress.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\Snappier.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\ZstdSharp.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.csproj.AssemblyReference.cache
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.AssemblyInfoInputs.cache
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.AssemblyInfo.cs
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.csproj.CoreCompileInputs.cache
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.MvcApplicationPartsAssemblyInfo.cs
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.MvcApplicationPartsAssemblyInfo.cache
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\scopedcss\bundle\ProjetoChatGPT04_CSharp.styles.css
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoChatGPT04_CSharp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets\msbuild.ProjetoChatGPT04_CSharp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets\msbuild.build.ProjetoChatGPT04_CSharp.props
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProjetoChatGPT04_CSharp.props
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProjetoChatGPT04_CSharp.props
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoC.6DBCF2F4.Up2Date
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\refint\ProjetoChatGPT04_CSharp.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.pdb
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ProjetoChatGPT04_CSharp.genruntimeconfig.cache
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\obj\Debug\net8.0\ref\ProjetoChatGPT04_CSharp.dll
+C:\Csharp_\Automação-com-IA\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\ProjetoChatGPT04_CSharp\bin\Debug\net8.0\RabbitMQ.Client.dll
